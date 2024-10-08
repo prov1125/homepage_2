@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "platforms": [
+            {"x": 100, "y": 700, "width": 150, "height": 20},
+            {"x": 300, "y": 600, "width": 150, "height": 20}
+        ],
+        "playerStart": {"x": 50, "y": 560}
+    },
+    {
+        "id": 2,
+        "platforms": [
+            {"x": 50, "y": 100, "width": 200, "height": 20},
+            {"x": 100, "y": 200, "width": 200, "height": 20},
+            {"x": 150, "y": 300, "width": 150, "height": 20}
+        ],
+        "playerStart": {"x": 50, "y": 560}
+    }
+]
